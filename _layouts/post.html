@@ -17,10 +17,11 @@ layout: default
     {% else %}
         {{ site.author.name }}
     {% endif %} -->
-
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% if page.show_date %}
+      {% if page.date %}
+        <br>
+        <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% endif %}
     {% endif %}
   </div>
 
