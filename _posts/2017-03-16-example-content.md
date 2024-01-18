@@ -4,7 +4,7 @@ title: "Example Content"
 author: "Chester"
 tags: Example
 excerpt_separator: <!--more-->
-published: true
+published: false
 comments: true
 ---
 
