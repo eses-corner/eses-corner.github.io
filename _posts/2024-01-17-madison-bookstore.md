@@ -6,7 +6,8 @@ tags:
 excerpt_separator: <!--more-->
 published: true
 exclude: true
-date: none
+date: false
+comments: true
 ---
 
 
