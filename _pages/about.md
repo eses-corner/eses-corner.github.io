@@ -8,13 +8,13 @@ permalink: /about/
 
 
 
-Get in Touch!
+## Get in Touch!
 
 Hey there! Got something on your mind? Whether it's a question, suggestion, or just a friendly hello, I'm all ears.
 
-Email me at: 
+## Email me at: 
 
-<div style="text-align: center;border: 3px solid green;">
+<div style="text-align: center;">
     eesthr.ng@gmail.com
 </div>
 
