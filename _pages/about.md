@@ -16,6 +16,6 @@ Email me at:
 
 <div style="text-align: center;border: 3px solid green;">
     eesthr.ng@gmail.com
-<div>
+</div>
 
 Looking forward to hearing from you!
