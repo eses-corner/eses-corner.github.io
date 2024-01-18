@@ -8,8 +8,4 @@ permalink: /about/
 
 a collection of moments from my journey, capturing the stories they hold as seen through my eyes
 
-## Get in Touch!
-
-<div>
-    eesthr.ng@gmail.com    
-</div>
+get in touch: eesthr.ng@gmail.com

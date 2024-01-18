@@ -7,13 +7,11 @@ excerpt_separator: <!--more-->
 published: true
 exclude: true
 show_date: false
-comment: true
+comments: true
 ---
 
 
-
-![the book store]({{site.url}}/assets/images/thebookstore.png) 
-_Paul's book store_
+<img src="{{site.url}}/assets/images/bookstore.png">
 
 &emsp; When it comes to December, thoughts often turn to the season of winding down, reflection and the contemplation of new goals. On a recent winter’s day, this mood found me, reminding me of a very old quote “One sees clearly only with the heart. Anything essential is invisible to the eyes” - Antoine de Saint-Exupéry. <br>
 <!--more-->
@@ -24,6 +22,8 @@ _Paul's book store_
 
 &emsp; Now, weeks after leaving Madison, with a book half-read, sometimes, these echoes of doorbell jingles and the stories of books from a few regulars linger in my memory. It seemed to me something that deserved to be shared far and wide, spreading the reading culture that thrived in heart of Madison. 
 
+
+_the image above captures a quiet corner of Paul's Bookstore_
 
 <div class="post-info"> 
 Esther, <br>
