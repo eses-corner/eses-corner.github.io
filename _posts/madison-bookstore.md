@@ -9,6 +9,7 @@ exclude: true
 ---
 
 
+
 ![the book store]({{site.url}}/assets/images/thebookstore.png) 
 _Pauls book store_
 
