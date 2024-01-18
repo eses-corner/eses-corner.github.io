@@ -9,8 +9,8 @@ exclude: true
 ---
 
 
-![the book store]({{site.url}}/assets/images/hebookstore.png) 
-![]({{site.url}}/assets/images/mackinac-rock-1.jpeg)
+![the book store]({{site.url}}/assets/images/thebookstore.png) 
+_the bookstore_
 
 When it comes to December, thoughts often turn to the season of winding down, reflection and the contemplation of new goals. On a recent winter’s day, this mood found me, reminding me of a very old quote “One sees clearly only with the heart. Anything essential is invisible to the eyes” - Antoine de Saint-Exupéry.
  
