@@ -24,8 +24,9 @@ _the bookstore_
 
 &emsp; Now, weeks after leaving Madison, with a book half-read, sometimes, these echoes of doorbell jingles and the stories of books from a few regulars linger in my memory. It seemed to me something that deserved to be shared far and wide, spreading the reading culture that thrived in heart of Madison. 
 
-Esther,
 
-In snow’s whisper,
-
+<div class="post-info"> 
+Esther, <br>
+In snow’s whisper, <br>
 Spring 24
+</div>
