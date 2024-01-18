@@ -6,10 +6,9 @@ permalink: /about/
 ---
 
 
-a collection of moments from my journey, uncovering the stories they hold as seen through my eyes
+a collection of moments from my journey, discovering the stories they hold as seen through my eyes
 
 ## Get in Touch!
-
 
 <div>
     eesthr.ng@gmail.com    
