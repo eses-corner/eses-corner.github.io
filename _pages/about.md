@@ -6,7 +6,7 @@ permalink: /about/
 ---
 
 
-a collection of moments from my journey, discovering the stories they hold as seen through my eyes
+a collection of moments from my journey, capturing the stories they hold as seen through my eyes
 
 ## Get in Touch!
 
