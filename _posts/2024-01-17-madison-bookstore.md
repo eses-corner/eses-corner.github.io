@@ -26,6 +26,6 @@ _Paul's book store_
 
 <div class="post-info"> 
 Esther, <br>
-In snow’s whisper, <br>
-Spring 24
+in snow’s whisper, <br>
+spring 24
 </div>
