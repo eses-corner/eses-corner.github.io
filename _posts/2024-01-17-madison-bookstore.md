@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 published: true
 exclude: true
 show_date: false
-comments: true
+comments: false
 ---
 
 
