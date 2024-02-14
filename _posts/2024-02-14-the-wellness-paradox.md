@@ -12,7 +12,7 @@ comments: false
 
 <img src="{{site.url}}/assets/images/mackinac-bird-1.png" style>
 
-&emsp; I thought I was healthy until  realities of maintaining that health began to unfold in a routine that felt more like a choice than enjoyment.  Each morning, I'm greeted by supplements and things so called heathy food, each marking a battle between what is and what could be. 
+&emsp; I thought I was healthy until  realities of maintaining that health began to unfold in a routine that felt more like a choice than enjoyment.  Each morning, I'm greeted by supplements and things so called heathy food, each marking a battle between what is and what could be. <!--more-->
 
 &emsp; The ginkgo pill, my first act of the day, is a nod to the memories slipping through the years, following this, the hormone-balancer, then comes Vitamin D3, a stand-in for the sun on days it hides behind the clouds, paired with ION and vitamin C—a duo believed to carry sustained energy. Yet, it's the morning's dose of apple cider vinegar that truly tests my will. Its acrid taste is a daily confrontation, a reminder of the lengths we go to in the name of health. The cold, refreshing water I once enjoyed is now replaced by lukewarm sips, a concession to the promise of well-being.
 
