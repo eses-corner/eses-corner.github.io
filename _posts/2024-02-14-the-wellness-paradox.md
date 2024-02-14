@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the wellness paradpx"
+title: "the wellness paradox"
 author: "esther"
 tags: 
 excerpt_separator: <!--more-->
