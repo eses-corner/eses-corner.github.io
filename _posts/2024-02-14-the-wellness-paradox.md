@@ -25,7 +25,7 @@ comments: false
 &emsp; This introspection brings me to a crossroads that questioning the very nature of health and happiness. In my pursuit of well-being, I find myself navigating a delicate balance between sacrifice and satisfaction, wondering whether life's true essence is not in strict routines but in the small, happy moments we give ourselves permission to enjoy.
 
 <div class="post-info"> 
-Esther, the sugar free <br>
+Esther the sugar free <br>
 </div>
 <br>
 
