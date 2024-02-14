@@ -10,6 +10,7 @@ show_date: false
 comments: false
 ---
 
+<img src="{{site.url}}/assets/images/mackinac-bird-1.png" style>
 
 &emsp; I thought I was healthy until  realities of maintaining that health began to unfold in a routine that felt more like a choice than enjoyment.  Each morning, I'm greeted by supplements and things so called heathy food, each marking a battle between what is and what could be. 
 
